@@ -1,4 +1,4 @@
-## Eai 👋 Eu sou o Gustavo Soares 👋
+## Hello World 👋 Sou o Gustavo Soares 
 
 Sou um estudante de Ciência da Computação, estudando muitas coisas novas como machine learning, front end e outras coisas legais que podemos fazer com computadores.
 
