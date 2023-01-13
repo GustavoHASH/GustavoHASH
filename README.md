@@ -32,7 +32,8 @@ Sou um estudante de Ciência da Computação, estudando muitas coisas novas como
 
   
 </a>
-
+## Watch my contribution graph eaten by the snake🐍
+![snake gif](https://github.com/GustavoHASH/GustavoHASH/blob/output/github-contribution-grid-snake.gif)
 
 
 
