@@ -1,4 +1,4 @@
-## Hello World 👋 Sou o Gustavo Soares 
+## Não, eu não sou o Goku 👋 Sou o Gustavo Soares 
 
 Sou um estudante de Ciência da Computação, estudando muitas coisas novas como machine learning(PUC-Campinas/Residência Tecnológica), front end e outras coisas legais que podemos fazer com computadores.
 
