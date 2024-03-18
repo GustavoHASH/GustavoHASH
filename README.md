@@ -1,6 +1,6 @@
 ## 👋 👋 👋 👋
 
-Sou um estudante de Ciência da Computação, estudando muitas coisas novas como machine learning(PUC-Campinas/Residência Tecnológica), front end e outras coisas legais que podemos fazer com computadores.
+Formado em Ciência da Computação, grande interesse em Web/Dados e integrar LLMs em soluções de negócios como chatbots.
 
 ## 📌 Conecte comigo
 
